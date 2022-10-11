@@ -4,6 +4,7 @@
 Este boilerplate vem com as seguintes configurações iniciais:
 - Padronização de diretórios
 - Path Mapping para abreviação dos caminhos nas importações
+- Styled-components para estilizações das páginas
 - Theme provider para centralização de cores e fontes 
 
 ## Iniciando projeto 🚀  
